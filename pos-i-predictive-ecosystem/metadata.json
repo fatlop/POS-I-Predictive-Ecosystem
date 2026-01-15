@@ -1,0 +1,9 @@
+{
+  "name": "POS-I Predictive Ecosystem",
+  "description": "Smart Point of Sale with Predictive Intelligence, Unified Decision Layer, and Self-Healing Architecture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
